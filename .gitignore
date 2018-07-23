@@ -1,0 +1,9 @@
+# Ignote JetBrain root cache folder
+.idea
+
+# Ignore sublime text tmp file
+*.sublime-workspace
+
+# Ignore emacs tmp file
+*~
+\#*#
